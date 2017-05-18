@@ -11,7 +11,7 @@ Cobol, C++
 
 Object Oriented Cobol dialoghantering.
 
-SQL server, IBM DB2, flata filer.
+SQL server, IBM DB2, flata binära filer.
 
 Flygande byte mellan databas och flata binära filer.
 
