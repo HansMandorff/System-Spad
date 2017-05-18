@@ -11,5 +11,5 @@ Cobol, C++
 
 Object Oriented Cobol dialoghantering
 
-SQL server, IBM DB2
+SQL server, IBM DB2, flata filer
 
