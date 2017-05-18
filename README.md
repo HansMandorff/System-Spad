@@ -2,7 +2,8 @@
 Övning / utbildning / arbetsprov
 
 Cobol, C++
-Object Oriented Cobol
+
+Object Oriented Cobol dialoghantering
 
 SQL server, IBM DB2
 
