@@ -5,7 +5,7 @@ Se SpadKonstruktion.pdf
 
 Modell för kommunikation mellan exekverande program via databas.
 
-Administratör beställer och hanterar resultat från utförare.
+Administratör (RB) beställer och hanterar resultat från ett antal utförare.
 
 Cobol, C++
 
