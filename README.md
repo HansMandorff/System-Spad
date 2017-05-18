@@ -1,8 +1,5 @@
-# hello-world
-My first repository
+# System Spad
+Övning / utbildning / arbetsprov
 
-Procedural programming
+Cobol, C++
 
-Many languages - one logic
-
-Pseudo, Cobol, C
