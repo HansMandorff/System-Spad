@@ -1,9 +1,11 @@
 # System Spad
 Övning / utbildning / arbetsprov
 
-Se Spadkonstruktion.pdf
+Se SpadKonstruktion.pdf
 
-Modell för kommunikation mellan exekverande program via databas
+Modell för kommunikation mellan exekverande program via databas.
+
+Administratör beställer och hanterar resultat från utförare.
 
 Cobol, C++
 
